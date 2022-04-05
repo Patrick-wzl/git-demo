@@ -7,6 +7,7 @@ public class Main {
         System.out.println("ok");
         System.out.println("ok");
         System.out.println("ok");
-        System.out.println("master");
+        System.out.println("ok");
+        System.out.println("t1");
     }
 }
