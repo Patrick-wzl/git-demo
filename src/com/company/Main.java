@@ -8,5 +8,6 @@ public class Main {
         System.out.println("ok");
         System.out.println("ok");
         System.out.println("ok");
+        System.out.println("t1");
     }
 }
